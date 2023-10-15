@@ -42,7 +42,6 @@ int main()
             if (particles.Expand(particles.POIpos()))
             {
                 particles.fix(Vector2f(0.0f, 0.0f));
-                cout << "here" << endl;
                 particles.Spawn(particles.POIpos());
                 particles.exploded = true;
             }
