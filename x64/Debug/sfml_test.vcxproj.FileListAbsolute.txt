@@ -1,2 +1,0 @@
-A:\thebo\AI\x64\Debug\sfml_test.exe
-A:\thebo\Particle System\x64\Debug\sfml_test.exe
