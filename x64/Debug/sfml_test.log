@@ -1,0 +1,20 @@
+﻿  Main.cpp
+A:\thebo\Particle System\Main.cpp(12,17): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+A:\thebo\Particle System\Main.cpp(15,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+A:\thebo\Particle System\Main.cpp(15,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+A:\thebo\Particle System\Main.cpp(21,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Particle.cpp
+  Generating Code...
+  sfml_test.vcxproj -> A:\thebo\Particle System\x64\Debug\sfml_test.exe
