@@ -1,5 +1,0 @@
-SFML demo assets
-
-cat - https://comigo.itch.io/
-music - playonloop.com
-font https://www.fontspace.com/bubbleboddy-font-f24700
